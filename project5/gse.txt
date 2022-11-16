@@ -1,0 +1,9 @@
+Golden State Emporium
+We do our best to serve our customers
+
+Today's purchases:
+
+	Item					Quantity	Cost
+
+Amount paid: $0.00
+Thank you for shopping at GSE.
